@@ -1,0 +1,18 @@
+body {
+  padding: 0;
+  background-color: #fff;
+  color: #000;
+}
+body.dark-mode {
+  background-color: #666;
+  color: #fff;
+}
+button {
+  background-color: teal;
+  color: #fff;
+  border: none;
+  outline: none;
+  padding: 5px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
